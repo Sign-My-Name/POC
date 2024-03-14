@@ -18,5 +18,16 @@ To get started with SignMyName, follow these steps:
    ``` pip install opencv-python ```
 3. **run the application**:
    ``` py POC.py ```
-4. press 'q' to exit the application
-   
+4. **Begin Signing**: Once the application is running, start signing gestures in front of your camera to see real-time text translations.
+5. press 'q' to exit the application
+
+## Acknowledgments
+
+We would like to thank the following individuals and organizations for their contributions to SignMyName:
+
+- 🌸[Sivan Cohen]
+- 🚀[Shahar Ariel]
+- 🎸 [Gilad Meir]
+  
+and our guide:
+- 👨‍🏫 [Amit Dunsky] 
